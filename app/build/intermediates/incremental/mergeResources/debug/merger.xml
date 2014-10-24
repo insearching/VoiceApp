@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res" >
+            <file
+                name="icon"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="dictation"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\layout\dictation.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listening"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\layout\listening.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listitem"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\layout\listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tts"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\layout\tts.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="beep"
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\raw\beep.wav"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="D:\AndroidStudio\SampleVoiceApp\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="button_tts" >TTS
+                </string>
+                <string name="title_dictation" >Test Dictation
+                </string>
+                <string name="button_dictation" >Dictation
+                </string>
+
+                <string-array name="arr_ttsVoices" >
+                    <item>
+Samantha
+                    </item>
+                    <item>
+Tom
+                    </item>
+                </string-array>
+
+                <string name="button_startDictation" >Dictate
+                </string>
+                <string name="radio_endPointerShort" >Short
+                </string>
+                <string name="button_startTts" >Get TTS
+                </string>
+                <string name="title_main" >Choose a feature to test
+                </string>
+                <string name="radio_endPointerNone" >None
+                </string>
+                <string name="title_tts" >Test TTS
+                </string>
+                <string name="hello" >Hello World, SampleVoiceApp!
+                </string>
+                <string name="radio_endPointerLong" >Long
+                </string>
+                <string name="text_endPointer" >Endpointer:
+                </string>
+                <string name="button_stop" >Stop
+                </string>
+                <string name="app_name" >Sample Voice App
+                </string>
+                <string name="button_websearch" >Websearch
+                </string>
+            </file>
+        </source>
+        <source path="D:\AndroidStudio\SampleVoiceApp\app\build\generated\res\rs\debug" />
+        <source path="D:\AndroidStudio\SampleVoiceApp\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\AndroidStudio\SampleVoiceApp\app\src\debug\res" />
+    </dataSet>
+
+</merger>

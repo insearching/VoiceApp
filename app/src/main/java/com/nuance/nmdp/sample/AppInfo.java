@@ -1,0 +1,18 @@
+package com.nuance.nmdp.sample;
+
+public class AppInfo
+{
+
+    /* Please contact Nuance to receive the necessary connection and login parameters */
+    public static final String SpeechKitServer = "sandbox.nmdp.nuancemobility.net";
+
+    public static final int SpeechKitPort = 443;
+
+    public static final boolean SpeechKitSsl = false;
+
+    public static final String SpeechKitAppId = "NMDPTRIAL_qtalkpublishing20141017124026";
+
+    public static final byte[] SpeechKitApplicationKey = {
+            (byte)0xb9, (byte)0x05, (byte)0xf5, (byte)0x29, (byte)0xbf, (byte)0x79, (byte)0xb5, (byte)0xb4, (byte)0x62, (byte)0xc2, (byte)0x23, (byte)0x91, (byte)0x5e, (byte)0xca, (byte)0xd0, (byte)0xa4, (byte)0x95, (byte)0x8f, (byte)0x2c, (byte)0xaf, (byte)0xf1, (byte)0x4c, (byte)0x7a, (byte)0x88, (byte)0x8d, (byte)0x6f, (byte)0xab, (byte)0x54, (byte)0xe2, (byte)0xe0, (byte)0xb4, (byte)0x9c, (byte)0xe5, (byte)0xaa, (byte)0xc5, (byte)0xa5, (byte)0x23, (byte)0x7b, (byte)0x59, (byte)0x86, (byte)0x3d, (byte)0x7c, (byte)0x17, (byte)0x9b, (byte)0x47, (byte)0xe7, (byte)0x3f, (byte)0xdc, (byte)0x77, (byte)0x6b, (byte)0x8b, (byte)0x68, (byte)0xb8, (byte)0x05, (byte)0xf0, (byte)0x45, (byte)0x74, (byte)0x9b, (byte)0x9a, (byte)0x57, (byte)0x7c, (byte)0x4e, (byte)0xf3, (byte)0x61
+    };
+}

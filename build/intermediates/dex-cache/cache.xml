@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\AndroidStudio\SampleVoiceApp\app\build\intermediates\pre-dexed\debug\nmdp_speech_kit-82a6b3d798d34d84e273807294917b2ef0f232a0.jar"
+        jar="D:\AndroidStudio\SampleVoiceApp\app\libs\nmdp_speech_kit.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1b2557380ab96aa36e4de451e0c5159279454c81"/>
+
+</pre-dex-items>
